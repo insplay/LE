@@ -28,7 +28,8 @@
         "arrowColor": "#4ea2e3"
       },
       "additionalSetColors": [
-        "#006cb7"
+        "#006cb7",
+        "#009bff"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -68,7 +69,10 @@
               "color": "#006cb7"
             },
             ".mbr-section-title B": {
-              "color": "#006cb7"
+              "color": "#009bff"
+            },
+            ".mbr-section-subtitle B": {
+              "color": "#009bff"
             }
           },
           "_name": "header1",
